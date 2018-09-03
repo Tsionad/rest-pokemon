@@ -1,2 +1,4 @@
 # rest-pokemon
-Create a basic RESTful API using TypeScript, Node.js and Express.js.
+
+A basic RESTful API built using Node.js, Express.js and Typescript to handle simple CRUD operations.
+

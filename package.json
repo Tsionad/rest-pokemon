@@ -1,13 +1,9 @@
 {
   "name": "pokemon-api",
   "version": "1.0.0",
-  "description": "Pokemon REST API with TypeScript",
+  "description": "Pokemon REST API built with Node.js & TypeScript",
   "main": "index.js",
   "scripts": {
-    "build": "tsc",
-    "dev": "ts-node ./src/server.ts",
-    "start": "nodemon ./dist/server.js",
-    "prod": "npm run build && npm run start",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
